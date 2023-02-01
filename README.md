@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ### @Keyzcharly
-- 👀 I’m interested in *taking over the world*
+- 👋 Hi, I’m ### ***Keyzcharly***
+- 👀 I’m interested in ***taking over the world***
 - 👀 Ha Ha Ha Ha(menacingly)
-- 🌱 I’m currently learning Cyber Alchemy
+- 🌱 I’m currently learning ***Cyber Alchemy***
 - 💞️ I’m looking to collaborate on What Works
 - 📫 How to reach me Keyzcharly@gmail.com
 
