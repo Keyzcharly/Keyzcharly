@@ -1,5 +1,3 @@
-[![MasterHead](https://images.pexels.com/photos/6387808/pexels-photo-6387808.jpeg)](https://viralweb.biz)
-
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">Enthusiastic Cyber Enterpreneur</h3>
 
